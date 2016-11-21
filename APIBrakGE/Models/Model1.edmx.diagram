@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ea519d937a6049ffac43c7854b5c9e19" Name="Diagram1">
+        <EntityTypeShape EntityType="dbBrakGEModel.Actas" Width="1.5" PointX="3" PointY="30.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.AcuerdoPagoCuentasPendientes" Width="1.5" PointX="15.75" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Bodega" Width="1.5" PointX="6" PointY="31.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Brief" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Color" Width="1.5" PointX="3" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.ControlDeProcesos" Width="1.5" PointX="23.25" PointY="31.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.ControlEntregasInternas" Width="1.5" PointX="15.75" PointY="32.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.CuentasPendientes" Width="1.5" PointX="13.5" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.CuotaPago" Width="1.5" PointX="18" PointY="40.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.CuotasPagoPendiente" Width="1.5" PointX="18" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.DetalleActa" Width="1.5" PointX="8.25" PointY="30.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.DetalleDocumento" Width="1.5" PointX="7.5" PointY="42.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.DetalleRemisiones" Width="1.5" PointX="18" PointY="37.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Documentos" Width="1.5" PointX="13.5" PointY="30.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.DPTO" Width="1.5" PointX="6.75" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Empresa" Width="1.5" PointX="1.5" PointY="20.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.EstadoDocumento" Width="1.5" PointX="11.25" PointY="24.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.EstadoEnvio" Width="1.5" PointX="13.5" PointY="27.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.FomaDePago" Width="1.5" PointX="11.25" PointY="20.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.FormaPagoPendientes" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.FotosBrief" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.FotosItems" Width="1.5" PointX="7.5" PointY="46" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Grupo" Width="1.5" PointX="0.75" PointY="25.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Inventario" Width="1.5" PointX="7.5" PointY="48.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Item" Width="1.5" PointX="5.25" PointY="42" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Iva" Width="1.5" PointX="3" PointY="38.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Marcas" Width="1.5" PointX="6" PointY="27.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Materiales" Width="1.5" PointX="8.25" PointY="27" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.MaterialesActaDetalle" Width="1.5" PointX="10.5" PointY="30.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Modificaciones" Width="1.5" PointX="18.75" PointY="32.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.ModoPago" Width="1.5" PointX="15.75" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.MotivoModificaciones" Width="1.5" PointX="16.5" PointY="21.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Municipio" Width="1.5" PointX="9" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Nomina" Width="1.5" PointX="6" PointY="37.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Paises" Width="1.5" PointX="4.5" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Perfiles" Width="1.5" PointX="3" PointY="48.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Personas" Width="1.5" PointX="11.25" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.PlanPagoCredito" Width="1.5" PointX="15.75" PointY="41" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Procesos" Width="1.5" PointX="18.75" PointY="28.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.ProgramacionTarea" Width="1.5" PointX="21" PointY="31.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.RecibosCaja" Width="1.5" PointX="3" PointY="51.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.RecibosPago" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.RemisionesExternas" Width="1.5" PointX="15.75" PointY="27.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.SubGrupo" Width="1.5" PointX="3" PointY="26.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Sw" Width="1.5" PointX="6" PointY="24.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.sysdiagrams" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Talla" Width="1.5" PointX="3" PointY="59.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.TipoActa" Width="1.5" PointX="0.75" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.TipoCliente" Width="1.5" PointX="9" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.TipoDocumento" Width="1.5" PointX="9" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.TipoMOntaje" Width="1.5" PointX="6" PointY="21.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.TipoMovimiento" Width="1.5" PointX="8.25" PointY="34.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.TipoPersona" Width="1.5" PointX="9" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.TipoProceso" Width="1.5" PointX="16.5" PointY="24.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbBrakGEModel.Users" Width="1.5" PointX="0.75" PointY="30.5" IsExpanded="true" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Actas_Documentos" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Actas_TipoActa" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Actas_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_DetalleActa_Actas" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_AcuerdoPagoCuentasPendientes_CuentasPendientes" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_CuotasPagoPendiente_AcuerdoPagoCuentasPendientes" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Bodega_Empresa" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Bodega_Municipio" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Bodega_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_TipoMovimiento_Bodega" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_FotosBrief_Brief" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Color_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Item_Color" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_ControlDeProcesos_ProgramacionTarea" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_ControlDeProcesos_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_ControlEntregasInternas_Documentos" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_ControlEntregasInternas_EstadoEnvio" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_ControlEntregasInternas_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_CuentasPendientes_Personas" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_CuotaPago_PlanPagoCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_CuotasPagoPendiente_ModoPago" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_DetalleActa_TipoMOntaje" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_MaterialesActaDetalle_DetalleActa" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_DetalleDocumento_Item" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_DetalleRemisiones_Item" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_DetalleRemisiones_RemisionesExternas" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Documentos_EstadoDocumento" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Documentos_FomaDePago" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Documentos_Personas" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Documentos_TipoMovimiento" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Documentos_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Modificaciones_Documentos" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_PlanPagoCredito_Documentos" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Procesos_Documentos" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_ProgramacionTarea_Documentos" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_RemisionesExternas_Documentos" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_DPTO_Paises" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Municipio_DPTO" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Grupo_Empresa" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Marcas_Empresa" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_FotosItems_Item" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_SubGrupo_Grupo" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Inventario_Item" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Item_Iva" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Item_Marcas" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Item_SubGrupo" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Item_Talla" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Item_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Iva_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Marcas_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_MaterialesActaDetalle_Materiales" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_MaterialesActaDetalle_Materiales1" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Modificaciones_MotivoModificaciones" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Modificaciones_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Modificaciones_Usuarios1" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Personas_Municipio" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Nomina_Personas" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Nomina_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Roles_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Cliente_TipoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Cliente_TipoDocumento" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Cliente_TipoPersona" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Procesos_TipoProceso" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Procesos_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_ProgramacionTarea_Procesos" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_ProgramacionTarea_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_RecibosCaja_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_RecibosCaja_Usuarios1" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_RemisionesExternas_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_SubGrupo_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_TipoMovimiento_Sw" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_Talla_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.FK_TipoMovimiento_Usuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="dbBrakGEModel.GrupoMarcas" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
